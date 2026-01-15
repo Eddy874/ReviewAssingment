@@ -13,7 +13,7 @@
             DoPurchases(max);
         }
 
-        static void DoPurchases(Customer customer)
+        static void DoPurchases(Customer customer
         {
             Console.WriteLine("Starting Purchases");
             customer.PrintName();
